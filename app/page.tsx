@@ -20,8 +20,10 @@ export default function Page() {
           <HomeSection ref={homeRef} />
 
           <HistorySection />
-          <ContactSection />
+          
           <TrustedBySection />
+
+          <ContactSection />
         </div>
       </main>
     </div>
