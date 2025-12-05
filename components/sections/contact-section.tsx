@@ -59,11 +59,10 @@ export default function ContactSection() {
 
                                 <h3 className="text-2xl font-semibold text-cyan-400">Nossas redes sociais</h3>
                                 <div className="flex flex-items gap-4">
-
-                                    <a href="#" className=" w-8 h-8 hover:text-cyan-400 transition">
+                                    <a href="https://www.instagram.com/asaru_guard" className=" w-8 h-8 hover:text-cyan-400 transition">
                                         <Instagram />
                                     </a>
-                                    <a href="#" className="w-8 h-8 hover:text-cyan-400 transition">
+                                    <a href="mailto:asaruguard@asaruguard.com.br" className="w-8 h-8 hover:text-cyan-400 transition">
                                         <Mail />
                                     </a>
                                 </div>
